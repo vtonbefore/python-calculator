@@ -1,2 +1,2 @@
 # python-calculator
-num1=float(input())
+num1=float(input("))
